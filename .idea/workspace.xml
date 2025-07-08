@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e591dbb-3685-4c13-8192-ac19d2bce2bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="0e591dbb-3685-4c13-8192-ac19d2bce2bc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExportToHTMLSettings">
-    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Documents/informatique/DU/DU 2018_1/projet informatique/projet informatique/hotel" />
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Documents/informatique/projets" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751993080797</updated>
-      <workItem from="1751993081818" duration="5053000" />
+      <workItem from="1751993081818" duration="5395000" />
     </task>
     <servers />
   </component>
